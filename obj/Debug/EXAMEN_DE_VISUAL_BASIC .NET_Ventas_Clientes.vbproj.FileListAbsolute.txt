@@ -1,0 +1,16 @@
+C:\Users\Adiel\Desktop\german irso\java.net\EXAMEN_DE_VISUAL_BASIC .NET_Ventas_Clientes\EXAMEN_DE_VISUAL_BASIC .NET_Ventas_Clientes\bin\Debug\pruebademo.mdf
+C:\Users\Adiel\Desktop\german irso\java.net\EXAMEN_DE_VISUAL_BASIC .NET_Ventas_Clientes\EXAMEN_DE_VISUAL_BASIC .NET_Ventas_Clientes\bin\Debug\pruebademo_log.ldf
+C:\Users\Adiel\Desktop\german irso\java.net\EXAMEN_DE_VISUAL_BASIC .NET_Ventas_Clientes\EXAMEN_DE_VISUAL_BASIC .NET_Ventas_Clientes\bin\Debug\EXAMEN_DE_VISUAL_BASIC.NET_Ventas_Clientes.exe.config
+C:\Users\Adiel\Desktop\german irso\java.net\EXAMEN_DE_VISUAL_BASIC .NET_Ventas_Clientes\EXAMEN_DE_VISUAL_BASIC .NET_Ventas_Clientes\bin\Debug\EXAMEN_DE_VISUAL_BASIC.NET_Ventas_Clientes.exe
+C:\Users\Adiel\Desktop\german irso\java.net\EXAMEN_DE_VISUAL_BASIC .NET_Ventas_Clientes\EXAMEN_DE_VISUAL_BASIC .NET_Ventas_Clientes\bin\Debug\EXAMEN_DE_VISUAL_BASIC.NET_Ventas_Clientes.pdb
+C:\Users\Adiel\Desktop\german irso\java.net\EXAMEN_DE_VISUAL_BASIC .NET_Ventas_Clientes\EXAMEN_DE_VISUAL_BASIC .NET_Ventas_Clientes\bin\Debug\EXAMEN_DE_VISUAL_BASIC.NET_Ventas_Clientes.xml
+C:\Users\Adiel\Desktop\german irso\java.net\EXAMEN_DE_VISUAL_BASIC .NET_Ventas_Clientes\EXAMEN_DE_VISUAL_BASIC .NET_Ventas_Clientes\obj\Debug\EXAMEN_DE_VISUAL_BASIC .NET_Ventas_Clientes.vbprojAssemblyReference.cache
+C:\Users\Adiel\Desktop\german irso\java.net\EXAMEN_DE_VISUAL_BASIC .NET_Ventas_Clientes\EXAMEN_DE_VISUAL_BASIC .NET_Ventas_Clientes\obj\Debug\EXAMEN_DE_VISUAL_BASIC.NET_Ventas_Clientes.Form1.resources
+C:\Users\Adiel\Desktop\german irso\java.net\EXAMEN_DE_VISUAL_BASIC .NET_Ventas_Clientes\EXAMEN_DE_VISUAL_BASIC .NET_Ventas_Clientes\obj\Debug\EXAMEN_DE_VISUAL_BASIC.NET_Ventas_Clientes.Menu.resources
+C:\Users\Adiel\Desktop\german irso\java.net\EXAMEN_DE_VISUAL_BASIC .NET_Ventas_Clientes\EXAMEN_DE_VISUAL_BASIC .NET_Ventas_Clientes\obj\Debug\EXAMEN_DE_VISUAL_BASIC.NET_Ventas_Clientes.Resources.resources
+C:\Users\Adiel\Desktop\german irso\java.net\EXAMEN_DE_VISUAL_BASIC .NET_Ventas_Clientes\EXAMEN_DE_VISUAL_BASIC .NET_Ventas_Clientes\obj\Debug\EXAMEN_DE_VISUAL_BASIC .NET_Ventas_Clientes.vbproj.GenerateResource.cache
+C:\Users\Adiel\Desktop\german irso\java.net\EXAMEN_DE_VISUAL_BASIC .NET_Ventas_Clientes\EXAMEN_DE_VISUAL_BASIC .NET_Ventas_Clientes\obj\Debug\EXAMEN_DE_VISUAL_BASIC .NET_Ventas_Clientes.vbproj.CoreCompileInputs.cache
+C:\Users\Adiel\Desktop\german irso\java.net\EXAMEN_DE_VISUAL_BASIC .NET_Ventas_Clientes\EXAMEN_DE_VISUAL_BASIC .NET_Ventas_Clientes\obj\Debug\EXAMEN_DE_VISUAL_BASIC.NET_Ventas_Clientes.exe
+C:\Users\Adiel\Desktop\german irso\java.net\EXAMEN_DE_VISUAL_BASIC .NET_Ventas_Clientes\EXAMEN_DE_VISUAL_BASIC .NET_Ventas_Clientes\obj\Debug\EXAMEN_DE_VISUAL_BASIC.NET_Ventas_Clientes.xml
+C:\Users\Adiel\Desktop\german irso\java.net\EXAMEN_DE_VISUAL_BASIC .NET_Ventas_Clientes\EXAMEN_DE_VISUAL_BASIC .NET_Ventas_Clientes\obj\Debug\EXAMEN_DE_VISUAL_BASIC.NET_Ventas_Clientes.pdb
+C:\Users\Adiel\Desktop\german irso\java.net\EXAMEN_DE_VISUAL_BASIC .NET_Ventas_Clientes\EXAMEN_DE_VISUAL_BASIC .NET_Ventas_Clientes\obj\Debug\EXAMEN_DE_VISUAL_BASIC.NET_Ventas_Clientes.FrmClientes.resources
